@@ -3,8 +3,16 @@ Her findes der undervisningsmateriale til teknisk kursus for RN.
 
 ## Dag 1
 
-Undervisningsmateriale til [Standarder](https://github.com/HemhUcn/RN/blob/main/Standarder_HEMH.pdf)
-
-Undervisningsmateriale til [Arkitektur og kommunikation](https://github.com/HemhUcn/RN/)
+Undervisningsmateriale til [Arkitektur og kommunikation](https://github.com/HemhUcn/RN/blob/main/Arkitektur_og_kommunikation_BRHV.pdf)
 
 Undervisningsmateriale til [Logning og monitorering](https://github.com/HemhUcn/RN/blob/main/LogningOgMonitorering_HEMH.pdf)
+
+Undervisningsmateriale til [Overvågning af hændelser](https://github.com/HemhUcn/RN/blob/main/Overvaagning_af_haendelser_BRHV.pdf)
+
+Undervisningsmateriale til [Standarder](https://github.com/HemhUcn/RN/blob/main/Standarder_HEMH.pdf)
+
+
+
+
+
+
