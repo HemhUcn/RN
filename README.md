@@ -11,6 +11,12 @@ Undervisningsmateriale til [Overvågning af hændelser](https://github.com/HemhU
 
 Undervisningsmateriale til [Standarder](https://github.com/HemhUcn/RN/blob/main/Standarder_HEMH.pdf)
 
+## Dag 2
+
+Undervisningsmateriale til [Databaser](https://github.com/HemhUcn/RN/blob/main/Databaser_HEMH.pdf)
+
+
+
 
 
 
