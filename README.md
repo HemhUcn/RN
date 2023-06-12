@@ -15,6 +15,14 @@ Undervisningsmateriale til [Standarder](https://github.com/HemhUcn/RN/blob/main/
 
 Undervisningsmateriale til [Databaser](https://github.com/HemhUcn/RN/blob/main/Databaser_HEMH.pdf)
 
+Undervisningsmateriale til [Grundlæggende netværk](https://github.com/HemhUcn/RN/blob/main/GrundlaeggendeNetvaerk_IHN.pdf)
+
+Undervisningsmateriale til [Sikkerhed](https://github.com/HemhUcn/RN/blob/main/Sikkerhed_IHN.pdf)
+
+
+
+
+
 
 
 
